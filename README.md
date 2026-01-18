@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Kate 🐱</h1>
 <p align="center">
   <em>Full-stack enthusiast with a love for coding and cats</em><br>
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="500" alt="Cat coding GIF">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="150" alt="Relaxing cat with tea">
 </p>
 
 ---
