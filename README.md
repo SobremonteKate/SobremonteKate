@@ -43,8 +43,7 @@
 ## 🐾 Fun Facts
 
 - Matcha enthusiast 🍵  
-- Love making projects 
-- Born to be a film student, forced to take a tech course kidding
+- Born to be a Multimedia tudent, forced to take a tech course kidding
 
 ---
 
