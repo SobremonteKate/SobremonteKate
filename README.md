@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" width="400" alt="Coding cat landscape">
 </p>
 
-<h1 align="center">Hi there! I'm Kate 🐱</h1>
+<h1 align="center">Hi there! I'm Kate :P</h1>
 <p align="center">
   <em>Full-stack enthusiast with a love for coding and cats</em><br>
 
