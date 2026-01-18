@@ -13,9 +13,58 @@
 ## 💻 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,nodejs,mysql,bootstrap,arduino,git,vscode,figma,canva,photoshop,premiere" height="50" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML5"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS3"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript"/>
+  </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=php" height="50" alt="PHP"/>
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL"/>
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="Bootstrap"/>
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=arduino" height="50" alt="Arduino"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma" height="50" alt="Figma"/>
+  </a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+    <img src="https://skillicons.dev/icons?i=photoshop" height="50" alt="Photoshop"/>
+  </a>
+  <a href="https://www.adobe.com/products/premiere.html" target="_blank">
+    <img src="https://skillicons.dev/icons?i=premiere" height="50" alt="Premiere Pro"/>
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cplusplus" height="50" alt="C++"/>
+  </a>
+  <a href="https://netbeans.apache.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=netbeans" height="50" alt="NetBeans"/>
+  </a>
+  <a href="https://www.blender.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=blender" height="50" alt="Blender"/>
+  </a>
 </p>
-
 ---
 
 ## 🌟 Featured Projects
