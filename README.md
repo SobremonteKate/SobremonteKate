@@ -12,60 +12,9 @@
 
 ## 💻 Tech Stack & Tools
 
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML5"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS3"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript"/>
-  </a>
-  <a href="https://www.php.net/" target="_blank" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=php" height="50" alt="PHP"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL"/>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="Bootstrap"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=arduino" height="50" alt="Arduino"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=figma" height="50" alt="Figma"/>
-  </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=photoshop" height="50" alt="Photoshop"/>
-  </a>
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=premiere" height="50" alt="Premiere Pro"/>
-  </a>
-  <!-- Alternative icons for Canva, C++, NetBeans -->
-  <a href="https://www.canva.com/" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/canva.svg" height="50" alt="Canva"/>
-  </a>
-  <a href="https://isocpp.org/" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/cplusplus.svg" height="50" alt="C++"/>
-  </a>
-  <a href="https://netbeans.apache.org/" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/netbeans.svg" height="50" alt="NetBeans"/>
-  </a>
-</p>
+## 💻 Tech Stack & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,java,nodejs,mysql,bootstrap,arduino,git,vscode,figma,photoshop,premiere,canva,cplusplus)](https://skillicons.dev)
 
 ---
 
