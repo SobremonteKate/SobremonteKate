@@ -12,8 +12,11 @@
 
 ## 💻 Tech Stack & Tools
 <p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,java,nodejs,mysql,bootstrap,arduino,git,vscode,figma,photoshop,premiere,canva,cplusplus)](https://skillicons.dev)
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,java,nodejs,mysql,bootstrap,arduino,git,vscode,figma,photoshop,premiere,canva,cplusplus" height="50" alt="My Skills"/>
+  </a>
 </p>
+
 ---
 
 ## 🌟 Featured Projects
