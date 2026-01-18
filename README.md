@@ -34,9 +34,9 @@
 
 ## 📚 Learning Journey
 
-I’m currently learning **Machine Learning** while developing a **Hotel Management System**.  
-I also explore **mobile app development**, **software development**, and **game development**.  
-I love experimenting, building, and learning by doing. A true jack-of-all-trades, master of some!  
+- I’m currently learning **Machine Learning** while developing a **Hotel Management System**.  
+- I also explore **mobile app development**, **software development**, and **game development**.  
+- I love experimenting, building, and learning by doing. A true jack-of-all-trades, master of some!  
 
 ---
 
