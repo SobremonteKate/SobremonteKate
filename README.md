@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" width="400" alt="Coding cat landscape">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="400" alt="Coding cat">
 </p>
 
 <h1 align="center">Hi there! I'm Kate :P</h1>
