@@ -13,21 +13,7 @@
 ## 💻 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skills-icons.demolab.com/html5?size=50" alt="HTML5" />
-  <img src="https://skills-icons.demolab.com/css3?size=50" alt="CSS3" />
-  <img src="https://skills-icons.demolab.com/javascript?size=50" alt="JavaScript" />
-  <img src="https://skills-icons.demolab.com/php?size=50" alt="PHP" />
-  <img src="https://skills-icons.demolab.com/java?size=50" alt="Java" />
-  <img src="https://skills-icons.demolab.com/nodejs?size=50" alt="Node.js" />
-  <img src="https://skills-icons.demolab.com/mysql?size=50" alt="MySQL" />
-  <img src="https://skills-icons.demolab.com/bootstrap?size=50" alt="Bootstrap" />
-  <img src="https://skills-icons.demolab.com/arduino?size=50" alt="Arduino" />
-  <img src="https://skills-icons.demolab.com/git?size=50" alt="Git" />
-  <img src="https://skills-icons.demolab.com/vscode?size=50" alt="VS Code" />
-  <img src="https://skills-icons.demolab.com/figma?size=50" alt="Figma" />
-  <img src="https://skills-icons.demolab.com/canva?size=50" alt="Canva" />
-  <img src="https://skills-icons.demolab.com/photoshop?size=50" alt="Photoshop" />
-  <img src="https://skills-icons.demolab.com/premiere?size=50" alt="Premiere Pro" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,nodejs,mysql,bootstrap,arduino,git,vscode,figma,canva,photoshop,premiere" height="50" />
 </p>
 
 ---
