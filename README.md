@@ -12,7 +12,7 @@
 
 ## 💻 Tech Stack & Tools
 <p align="center">
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,java,nodejs,mysql,bootstrap,arduino,git,vscode,figma,photoshop,premiere,canva,cplusplus)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,java,nodejs,mysql,bootstrap,arduino,git,vscode,figma,photoshop,premiere,canva,cplusplus)](https://skillicons.dev)
 </p>
 ---
 
