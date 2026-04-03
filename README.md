@@ -23,8 +23,7 @@
 - Mobile Development
 - Software Development
 - Game Development
-
-<p align="center">🍵 Powered by matcha</p>
+🍵 Powered by matcha
 
 ---
 
