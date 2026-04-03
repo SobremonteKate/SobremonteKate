@@ -7,9 +7,13 @@
 ### About Me
 
 Supposed to be in Marine Biology, but here we are :P
+
 Full-Stack Developer
+
 Currently building a Hotel Management System while exploring Machine Learning on the side.
+
 I dabble in web dev, mobile, software, and game dev
+
 🍵 Powered by matcha
 
 ---
