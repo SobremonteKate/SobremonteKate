@@ -1,53 +1,41 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="1920" height="500" alt="Coding cat">
-</p>
+<h1 align="center">hey, I'm Kate 👋</h1>
 
-<h1 align="center">Hi there! I'm Kate :P</h1>
 <p align="center">
-  <em>Full-stack enthusiast with a love for coding and cats</em><br>
-
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="Coding cat" />
 </p>
 
 ---
 
-## 💻 Tech Stack & Tools
+### 🧍 About Me
+
+- 🎓 CS student who was supposed to be in Marine Biology — plot twist, I stayed
+- 💻 Full-stack enthusiast who loves building things that actually work
+- 🤖 Currently diving into **Machine Learning** + building a **Hotel Management System**
+- 🎮 I dabble in mobile, software, and game dev — jack of all trades, master of *some*
+- 🍵 Powered by matcha
+
+---
+
+### 💻 Tech Stack
 
 <div align="center">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,java,nodejs,aws,react,python,autocad,cpp,c,docker,eclipse,godot,jquery,nextjs,notion,sass,mysql,visualstudio,bootstrap,arduino,git,vscode,figma,photoshop,premiere" height="150" alt="My Skills"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,nodejs,aws,react,python,cpp,c,docker,nextjs,sass,mysql,bootstrap,arduino,git,vscode,figma,photoshop,premiere&perline=11" alt="Tech Stack" />
 </div>
 
 ---
 
-## 🌟 Featured Projects
+### 🚀 Projects
 
-| Project | Description |
-|---------|-------------|
+| Project | What it does |
+|--------|--------------|
 | [Melaundry](https://github.com/SobremonteKate/Melaundry) | Customer & sales management system |
 | [Starflix](https://github.com/SobremonteKate/Starflix) | Streaming platform prototype |
 | [Sharkie](https://github.com/SobremonteKate/Sharkie) | Fun front-end experiment |
 
-*(More projects coming soon!)*
-
 ---
 
-## 📚 Learning Journey
+### 📫 Reach Me
 
-- I’m currently learning **Machine Learning** while developing a **Hotel Management System**.  
-- I also explore **mobile app development**, **software development**, and **game development**.  
-- I love experimenting, building, and learning by doing. A true jack-of-all-trades, master of some!  
-
----
-
-## 🐾 Fun Facts
-
-- Matcha enthusiast 🍵  
-- Born to be a Multimedia tudent, forced to take a tech course kidding
-
----
-
-## 📫 Connect with Me
-
-- Portfolio: Coming soon 🌱  
-- Email: [sobremontekate25@gmail.com](mailto:sobremontekate25@gmail.com)
+<p align="center">
+  <a href="mailto:sobremontekate25@gmail.com">📧 sobremontekate25@gmail.com</a> &nbsp;|&nbsp; 🌱 Portfolio coming soon
+</p>
