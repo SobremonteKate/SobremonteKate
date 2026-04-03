@@ -4,6 +4,7 @@
 <p align="center">
   <img src="baybayin.svg" width="400" alt="Hello, I'm Kate in Baybayin" height="150"/>
 </p>
+
 ---
 
 <p align="center"><strong>Full-Stack Developer</strong></p>
