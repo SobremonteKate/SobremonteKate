@@ -2,7 +2,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3UxaTNsMmcxajB3bmN4azh0M3N2Nmd0c2syMWZwN2U4b2p5ZXY3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sm9AfJRiZofjlrkAAl/giphy.gif" width="1920" height="500"  alt="Coding cat" />
 </p>
 <p align="center">
-  <img src="baybayin.svg" width="600" alt="Hello, I'm Kate in Baybayin" height="150"/>
+  <img src="baybayin.svg" width="400" alt="Hello, I'm Kate in Baybayin" height="150"/>
 </p>
 ---
 
