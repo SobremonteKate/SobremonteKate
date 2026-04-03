@@ -4,17 +4,26 @@
 
 ---
 
-### About Me
+### Hi! I'm Kate!
 
-Supposed to be in Marine Biology, but here we are :P
+<p align="center"><strong>Full-Stack Developer</strong></p>
 
-Full-Stack Developer
+**Origin Story:**
+- Supposed to be in Marine Biology, but here we are
 
-Currently building a Hotel Management System while exploring Machine Learning on the side.
+**Core Focus:**
+- Full-Stack Web Development
 
-I dabble in web dev, mobile, software, and game dev
+**Currently Exploring:**
+- AI & Machine Learning
+- Hotel Management System (ongoing project)
 
-🍵 Powered by matcha
+**Also dabbles in:**
+- Mobile Development
+- Software Development
+- Game Development
+
+<p align="center">🍵 Powered by matcha</p>
 
 ---
 
