@@ -1,7 +1,7 @@
 <h1 align="center">hey, I'm Kate 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="300" alt="Coding cat" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding cat" />
 </p>
 
 ---
