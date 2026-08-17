@@ -39,5 +39,5 @@
 ### Reach Me
 
 <p align="center">
-  <a href="mailto:sobremontekate25@gmail.com">📧 sobremontekate25@gmail.com</a> &nbsp;|&nbsp;
+  <a href="mailto:sobremontekate25@gmail.com">📧 sobremontekate25@gmail.com</a> &nbsp;
 </p>
