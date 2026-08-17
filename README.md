@@ -39,5 +39,5 @@
 ### Reach Me
 
 <p align="center">
-  <a href="mailto:sobremontekate25@gmail.com">📧 sobremontekate25@gmail.com</a> &nbsp;|&nbsp; 🌱 Portfolio coming soon
+  <a href="mailto:sobremontekate25@gmail.com">📧 sobremontekate25@gmail.com</a> &nbsp;|&nbsp;
 </p>
