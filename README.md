@@ -17,7 +17,7 @@
 
 **Currently Exploring:**
 - AI & Machine Learning
-- Hotel Management System (ongoing project)
+- Cloud
 
 **Also dabbles in:**
 - Mobile Development
